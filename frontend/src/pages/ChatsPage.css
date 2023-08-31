@@ -1,0 +1,17 @@
+.parent-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: black;;
+}
+
+.parent-container .multi-chat-socket {
+    background-color: brown;
+    height: 100%;
+}
+
+.parent-container .multi-chat-window {
+    background-color: blueviolet;
+    height: 100%;
+}
+
